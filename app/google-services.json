@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "570291344846",
+    "firebase_url": "https://gabb-92584.firebaseio.com",
+    "project_id": "gabb-92584",
+    "storage_bucket": "gabb-92584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570291344846:android:5797b34110d28599",
+        "android_client_info": {
+          "package_name": "com.darsh.gabb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570291344846-2eu7tjg7p1d8euvo7j935np26aj3n0rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRsTHpMtrZJQk6pYg5ZXJ0hpEuJ4bhGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
